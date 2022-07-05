@@ -1,1 +1,1 @@
-Un pequeño servidor de minecraft.
+Un pequeño Gran de minecraft.
